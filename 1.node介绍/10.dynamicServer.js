@@ -21,4 +21,4 @@ var serve = function(request,response){
 var server = http.createServer(serve);
 
 //在本机的8080端口上监听客户端的请求
-server.listen(8080);
+server.listen(9988);

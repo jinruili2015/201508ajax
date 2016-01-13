@@ -22,6 +22,7 @@ var serve = function(request,response){
            response.end();
        });
    }else{
+
        response.end('NOT FOUND');
    }
 
